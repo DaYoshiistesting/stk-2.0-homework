@@ -1,2 +1,2 @@
-# stk-2.0-homework
-This is the homework I made featuring the future release of SuperTuxKart Evolution. 
+# SuperTuxKart Evolution Homework
+This is the homework I made featuring the coming release of SuperTuxKart Evolution. 
